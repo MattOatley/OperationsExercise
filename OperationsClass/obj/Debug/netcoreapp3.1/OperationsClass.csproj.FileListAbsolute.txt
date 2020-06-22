@@ -1,0 +1,13 @@
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\bin\Debug\netcoreapp3.1\OperationsClass.exe
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\bin\Debug\netcoreapp3.1\OperationsClass.deps.json
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\bin\Debug\netcoreapp3.1\OperationsClass.runtimeconfig.json
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\bin\Debug\netcoreapp3.1\OperationsClass.runtimeconfig.dev.json
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\bin\Debug\netcoreapp3.1\OperationsClass.dll
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\bin\Debug\netcoreapp3.1\OperationsClass.pdb
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\obj\Debug\netcoreapp3.1\OperationsClass.csprojAssemblyReference.cache
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\obj\Debug\netcoreapp3.1\OperationsClass.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\obj\Debug\netcoreapp3.1\OperationsClass.AssemblyInfo.cs
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\obj\Debug\netcoreapp3.1\OperationsClass.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\obj\Debug\netcoreapp3.1\OperationsClass.dll
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\obj\Debug\netcoreapp3.1\OperationsClass.pdb
+C:\Users\matth\Desktop\repos2\OperationsClassApp\OperationsClass\obj\Debug\netcoreapp3.1\OperationsClass.genruntimeconfig.cache
